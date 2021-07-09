@@ -45,7 +45,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 - Bot will starts radio automatically in given `CHAT` with given `STREAM_URL` after deploy. 
 - 24x7 Music even if heroku restarts, radio stream restarts automatically.  
 - To play a song just send the audio file to Bot or reply to an audio with `/play` to start playing it in the voice chat.
-- To download audio you can use [@RadioFoortiFM_Bot](http://t.me/RadioFoortiFMBot) or `/song` command to the bot.
+- To download audio you can use [@RadioFoortiFMBot](http://t.me/RadioFoortiFMBot) or `/song` command to the bot.
 - Use `/help` to know about other commands & its usage.
 
 ## Requirements
